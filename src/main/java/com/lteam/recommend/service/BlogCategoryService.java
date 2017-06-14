@@ -1,4 +1,4 @@
-package com.recommend.service;
+package com.lteam.recommend.service;
 /**
  * @Description:博客分类
  * @author guicheng.huang

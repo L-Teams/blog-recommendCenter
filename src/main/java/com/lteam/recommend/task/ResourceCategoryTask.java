@@ -1,4 +1,4 @@
-package com.recommend.task;
+package com.lteam.recommend.task;
 /**
  * @Description:博客分类task
  * @author guicheng.huang
