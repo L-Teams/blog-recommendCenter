@@ -33,4 +33,6 @@ public class LogService {
 	public void mergeBehaviorLogByUser(LogEnty log){
 		
 	}
+	
+	
 }
